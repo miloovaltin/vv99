@@ -1,0 +1,16 @@
+{
+"name": "vv99",
+"theme": "vv99",
+"version": "2.2.10",
+"description": "vv99 สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+"keywords": [
+"vv99",
+"vv99 เครดิตฟรี",
+"vv99 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/vv99",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
